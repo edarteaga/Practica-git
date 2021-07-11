@@ -1,1 +1,3 @@
-# Practica-git
+Practica
+
+Aprendiendo Git
